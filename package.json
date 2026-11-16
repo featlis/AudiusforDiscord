@@ -1,0 +1,1 @@
+{"name":"audius-discord-activity","private":true,"scripts":{"build":"npm --prefix client run build","dev:client":"npm --prefix client run dev","dev:server":"npm --prefix server run dev","start":"npm --prefix server run start"},"type":"module","version":"0.1.0"}
